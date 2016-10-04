@@ -1,0 +1,7 @@
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyOperation\MyOperation\bin\Debug\MyOperation.dll
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyOperation\MyOperation\bin\Debug\MyOperation.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyOperation\MyOperation\obj\Debug\MyOperation.dll
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyOperation\MyOperation\obj\Debug\MyOperation.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyOperation\MyOperation\obj\Debug\MyOperation.csprojResolveAssemblyReference.cache
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyOperation\MyOperation\bin\Debug\MyInterfaces.dll
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyOperation\MyOperation\bin\Debug\MyInterfaces.pdb

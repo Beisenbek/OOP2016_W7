@@ -1,0 +1,10 @@
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\bin\Debug\UnityIOCSample.exe.config
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\obj\Debug\UnityIOCSample.csprojResolveAssemblyReference.cache
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\bin\Debug\UnityIOCSample.exe
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\bin\Debug\UnityIOCSample.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\obj\Debug\UnityIOCSample.exe
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\obj\Debug\UnityIOCSample.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\bin\Debug\MyInterfaces.dll
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\bin\Debug\MyOperation.dll
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\bin\Debug\MyInterfaces.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\UnityIOCSample\UnityIOCSample\bin\Debug\MyOperation.pdb

@@ -1,0 +1,4 @@
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyInterfaces\MyInterfaces\bin\Debug\MyInterfaces.dll
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyInterfaces\MyInterfaces\bin\Debug\MyInterfaces.pdb
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyInterfaces\MyInterfaces\obj\Debug\MyInterfaces.dll
+c:\users\b.baisakov\documents\visual studio 2013\Projects\MyInterfaces\MyInterfaces\obj\Debug\MyInterfaces.pdb
